@@ -1,0 +1,12 @@
+Используем zdaemon. 
+1. Нужно установить его. 
+2. В папку wads нужно закинуть файл .wad
+3. Запускаем zlauncher
+4. Регистрируемся 
+5. ищем сервер VKA2021.
+Пароль от сервера: go_the_battle
+Архив со всем и сразу:
+https://disk.yandex.ru/d/RNLBk81mxq9o3A
+https://drive.google.com/file/d/1sI9K_gn_C5mpprXdTDPPQnAGSHHYGc5i/view?usp=sharing
+https://mega.nz/file/N5xgDBQR#losQSpIUS5AAiBBGoOr_zWj8OBF5eEudG5TqkM7klyo
+пароль: aiuhf8732r8qup
