@@ -33,6 +33,7 @@
 - [Отцовская консоль](categories/quest/quest-1-stego-nes/solution/writeup.md)
 - [Лотерея](categories/quest/quest-2-cry-lottery/solution/writeup.md)
 - [Космический музей](categories/quest/quest-2-rev-ada/solution/writeup.md)
+- [Пип-Бой](categories/quest/quest-2-pwn-terminal/solution/writeup.md)
 - [Дино](categories/quest/quest-3-ppc-dino/solution/writeup.md)
 - [Тайная передача](categories/quest/quest-3-stego-radio/solution/solution.md)
 - [Терминальный доступ](categories/quest/quest-4-rev-little-elf/solution/writeup.md)
